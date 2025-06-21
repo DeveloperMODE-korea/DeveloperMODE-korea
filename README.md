@@ -2,8 +2,8 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=DeveloperMODE&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/DeveloperMODE?label=Follow&style=social)](https://github.com/DeveloperMODE)
+![Profile Views](https://komarev.com/ghpvc/?username=DeveloperMODE-korea&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/DeveloperMODE-korea?label=Follow&style=social)](https://github.com/DeveloperMODE-korea)
 
 </div>
 
@@ -113,9 +113,9 @@ Hello! I'm **DeveloperMODE**, a 22-year-old **freelance developer** based in **ð
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperMODE&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperMODE-korea&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMODE&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMODE-korea&layout=compact&theme=radical)
 
 </div>
 
