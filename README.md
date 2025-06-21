@@ -16,44 +16,6 @@ Hello! I'm **DeveloperMODE**, a 22-year-old **freelance developer** based in **�
 
 ---
 
-## 🎯 Services & Expertise
-
-### 💻 **Custom Desktop Applications**
-- Python GUI & Java Swing-based business applications
-- Enterprise-level desktop solutions
-
-### 🌐 **Web Application Development** 
-- Responsive websites & admin panels
-- RESTful API servers & backend systems
-
-### 📊 **Data Processing Systems**
-- Excel automation & data analysis tools
-- Automated report generation systems
-
-### 🔗 **System Integration**
-- Legacy system integration & API development
-- Data migration & system modernization
-
-### 🛡️ **Security Solutions**
-- Vulnerability analysis & security auditing
-- Encryption systems & security hardening
-
----
-
-## 📈 Performance Metrics
-
-<div align="center">
-
-| Metric | Achievement |
-|--------|-------------|
-| ✅ **Projects Completed** | 10+ |
-| ⭐ **Average Rating** | 5.0/5.0 |
-| ⚡ **Response Time** | < 2 hours |
-
-</div>
-
----
-
 ## 🎓 Education & Research
 
 **🏫 Associate Degree in Computer Engineering**  
